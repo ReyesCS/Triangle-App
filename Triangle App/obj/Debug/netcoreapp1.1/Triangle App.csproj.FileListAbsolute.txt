@@ -1,0 +1,9 @@
+c:\users\shonen1561\documents\visual studio 2017\Projects\Triangle App\Triangle App\bin\Debug\netcoreapp1.1\Triangle App.deps.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Triangle App\Triangle App\bin\Debug\netcoreapp1.1\Triangle App.runtimeconfig.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Triangle App\Triangle App\bin\Debug\netcoreapp1.1\Triangle App.runtimeconfig.dev.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Triangle App\Triangle App\bin\Debug\netcoreapp1.1\Triangle App.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Triangle App\Triangle App\bin\Debug\netcoreapp1.1\Triangle App.pdb
+c:\users\shonen1561\documents\visual studio 2017\Projects\Triangle App\Triangle App\obj\Debug\netcoreapp1.1\Triangle App.csprojResolveAssemblyReference.cache
+c:\users\shonen1561\documents\visual studio 2017\Projects\Triangle App\Triangle App\obj\Debug\netcoreapp1.1\Triangle App.AssemblyInfo.cs
+c:\users\shonen1561\documents\visual studio 2017\Projects\Triangle App\Triangle App\obj\Debug\netcoreapp1.1\Triangle App.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Triangle App\Triangle App\obj\Debug\netcoreapp1.1\Triangle App.pdb
